@@ -1,0 +1,15 @@
+.weatherday-wrapper {
+  border: 1px solid black;
+  border-radius: 15px 15px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.dayofweek {
+  font-weight: bold;
+}
+.tempmax-text {
+  color: red;
+}
